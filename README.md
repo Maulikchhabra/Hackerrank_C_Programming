@@ -6,3 +6,5 @@ Hackerrank C Programming Solutions
 -> Conditionals And Loops [COMPLETE] 
 
 -> Arrays And Strings [COMPLETE]
+
+-> Functions [COMPLETE]
