@@ -70,7 +70,7 @@ char**** get_document(char* text) {
             if (word == NULL)
             {
                 word = s;
-                //printf("new word: %s\n", word);
+                
             }
         }
     }
